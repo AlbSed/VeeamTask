@@ -1,0 +1,27 @@
+[2023-03-07 10:04:48] Updating file: Replica\Nový Textový dokument.txt
+[2023-03-07 10:04:54] Deleting file: Replica\Nový Textový dokument.txt
+[2023-03-07 10:05:06] Creating directory: Replica\test
+[2023-03-07 10:05:12] Copying file: Replica\test\Nový Textový dokument.txt
+[2023-03-07 10:12:41] Deleting file: Replica\test\Nový Textový dokument.txt
+[2023-03-07 10:12:41] Copying file: Replica\test\hamhrksf.txt
+[2023-03-09 10:29:11] Copying file: Replica\test.txt
+[2023-03-09 10:29:14] Synchronization started with interval of 3 seconds
+[2023-03-09 10:29:17] Synchronization started with interval of 3 seconds
+[2023-03-09 10:29:20] Synchronization started with interval of 3 seconds
+[2023-03-09 10:29:23] Synchronization started with interval of 3 seconds
+[2023-03-09 10:29:54] Synchronization started with interval of 3 seconds
+[2023-03-09 10:29:57] Synchronization started with interval of 3 seconds
+[2023-03-09 10:30:00] Synchronization started with interval of 3 seconds
+[2023-03-09 10:30:03] Synchronization started with interval of 3 seconds
+[2023-03-09 10:30:06] Synchronization started with interval of 3 seconds
+[2023-03-09 10:30:09] Synchronization started with interval of 3 seconds
+[2023-03-09 10:32:03] Synchronization started with interval of 3 seconds
+[2023-03-09 10:32:18] Deleting file: Replica\test.txt
+[2023-03-09 15:05:25] Synchronization started with interval of 3 seconds
+[2023-03-09 15:05:25] Deleting directory: Replica\nový
+[2023-03-09 15:05:25] Creating directory: Replica\new
+[2023-03-09 15:05:25] Deleting directory: Replica\new
+[2023-03-09 15:05:25] Creating directory: Replica\nový
+[2023-03-09 15:05:25] Deleting directory: Replica\dir\nový
+[2023-03-09 15:05:25] Deleting file: Replica\dir\Nový Textový dokument.txt
+[2023-03-09 15:10:51] Synchronization started with interval of 5 seconds
